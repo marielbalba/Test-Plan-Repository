@@ -1,7 +1,7 @@
 # Test-Plan-Repository
 This repository contains Test Plan based on a demo website
 
-## Contents
+## Test Plan Contents
 - Introduction
 - In Scope
 - Out of Scope
